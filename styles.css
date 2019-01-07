@@ -1,0 +1,18 @@
+.ugly-header{
+  display: inline-block;
+  color: #EFFA03;
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+  padding-right: 300px;
+
+}
+body{
+  background-image: linear-gradient(to right, #B8F8F9, #098D8F);
+}
+.napoleon-dynamite{
+  float: right;
+}
+.nav-list{
+  display: inline-block;
+
+}
