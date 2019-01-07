@@ -1,18 +1,70 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
 .ugly-header{
+  font-size: 40px;
   display: inline-block;
   color: #EFFA03;
   font-family: 'Staatliches', cursive;
+  background-color: #000000;
+  padding-right: 20px;
+  padding left:20px;
+}
+div{
+  line-height: 40px;
+  padding-top: 40px;
+}
+.second-header{
+  font-size: 40px;
+  display: inline-block;
+  color: #EFFA03;
+  font-family: 'Staatliches', cursive;
+  /*background-color: #000000;
+  padding-right: 20px;
+  padding left:20px;*/
   text-align: center;
-  padding-right: 300px;
+  padding-left: 30%;
+}
+.sub-text{
+  font-family: arial, cursive, monospace;
+  color: #EFFA03;
+  padding-left: 40%;
 
 }
+
 body{
-  background-image: linear-gradient(to right, #B8F8F9, #098D8F);
+  background-image: linear-gradient(to right, #198789, #1C6604);
 }
-.napoleon-dynamite{
-  float: right;
+header{
+  background-color: black;
+  padding-bottom: 5px;
 }
 .nav-list{
+  text-align: center;
   display: inline-block;
+  list-style: none;
+  padding-bottom: 20px;
+}
+.nav-list li{
+  text-decoration: none;
+  font-size: 28px;
+  display: inline-block;
+  padding-right: 44px;
+  font-family: 'Staatliches', cursive;
+  color: white;
+}
+
+a:hover{
+  background-color: white;
+  color: green;
+}
+.Gary-Bussey{
+  width: 70px;
+  height: 70px;
+  padding-right: 40px;
+  padding-top: 0px;
+  display: inline-block;
+  float: right;
 
 }
